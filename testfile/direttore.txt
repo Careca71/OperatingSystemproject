@@ -1,0 +1,3 @@
+il direttore ha fatto uscire il client 128 che aveva acquistato 0 prodotti
+il direttore ha fatto uscire il client 37 che aveva acquistato 0 prodotti
+il direttore ha fatto uscire il client 45 che aveva acquistato 0 prodotti

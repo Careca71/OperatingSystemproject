@@ -1,0 +1,6 @@
+id cassa 1 | n. prodotti elaborati 1335 | n. di clienti 25 | tempo tot. di apertura 14.675 s | tempo medio di servizio 0.587 s| n.di chiusure 4| 
+id cassa 2 | n. prodotti elaborati 1681 | n. di clienti 37 | tempo tot. di apertura 19.326 s | tempo medio di servizio 0.522 s| n.di chiusure 2| 
+id cassa 3 | n. prodotti elaborati 1157 | n. di clienti 22 | tempo tot. di apertura 12.010 s | tempo medio di servizio 0.546 s| n.di chiusure 1| 
+id cassa 4 | n. prodotti elaborati 584 | n. di clienti 13 | tempo tot. di apertura 6.295 s | tempo medio di servizio 0.484 s| n.di chiusure 2| 
+id cassa 5 | n. prodotti elaborati 187 | n. di clienti 6 | tempo tot. di apertura 2.176 s | tempo medio di servizio 0.363 s| n.di chiusure 4| 
+id cassa 6 | n. prodotti elaborati 2478 | n. di clienti 43 | tempo tot. di apertura 26.973 s | tempo medio di servizio 0.627 s| n.di chiusure 1| 
